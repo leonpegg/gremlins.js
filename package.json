@@ -1,5 +1,5 @@
 {
-  "name": "gremlins.js",
+  "name": "@atlassian/gremlins.js",
   "version": "0.1.0",
   "description": "A monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins.",
   "main": "gremlins.min.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/marmelab/gremlins.js.git"
+    "url": "git://github.com/atlassian/gremlins.js.git"
   },
   "keywords": [
     "monkey",
@@ -24,6 +24,10 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/marmelab/gremlins.js/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
   },
   "devDependencies": {
     "webpack": "^1.8.11",
