@@ -1,5 +1,5 @@
 {
-  "name": "@atlassian/gremlins.js",
+  "name": "leonpegg/gremlins.js",
   "version": "0.1.0",
   "description": "A monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins.",
   "main": "gremlins.min.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/atlassian/gremlins.js.git"
+    "url": "git://github.com/leonpegg/gremlins.js.git"
   },
   "keywords": [
     "monkey",
